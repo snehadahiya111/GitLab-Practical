@@ -1,2 +1,3 @@
 This file gives the basic description about our project "Save Trees Save Life"
 Trees are the lungs of our planet—they absorb carbon dioxide, release oxygen, and sustain life for all creatures. Their presence ensures cleaner air, helps mitigate climate change, and provides shade, shelter, and food for numerous living beings. Beyond their environmental importance, trees play a vital role in maintaining the balance of ecosystems and preventing soil erosion. Saving trees is not just an act of environmental conservation but a commitment to safeguarding the future of life on Earth. Protecting and planting more trees can ensure a healthier planet for generations to come. Let’s join hands to cherish and preserve these green guardians of life!
+new changes 
